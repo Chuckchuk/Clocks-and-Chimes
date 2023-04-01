@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "clk:block/spruce/grand_1"
+			}
+		}
+	},
+	"rewards": {
+		"function": "clk:recipes/block/spruce/grand_1"
+	}
+}

@@ -1,0 +1,1 @@
+item modify entity @p[tag=chk.temp.interactor,predicate=clk:holding_glass,gamemode=!creative] weapon.mainhand chk:detract

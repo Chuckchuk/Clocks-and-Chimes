@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "clk:block/warped/grand_1"
+			}
+		}
+	},
+	"rewards": {
+		"function": "clk:recipes/block/warped/grand_1"
+	}
+}

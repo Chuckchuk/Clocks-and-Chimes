@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "clk:block/jungle/grand_1"
+			}
+		}
+	},
+	"rewards": {
+		"function": "clk:recipes/block/jungle/grand_1"
+	}
+}

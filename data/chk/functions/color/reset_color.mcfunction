@@ -1,0 +1,1 @@
+scoreboard players reset @e[distance=0..20] chk.color

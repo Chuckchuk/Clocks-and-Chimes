@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "clk:block/oak/grand_1"
+			}
+		}
+	},
+	"rewards": {
+		"function": "clk:recipes/block/oak/grand_1"
+	}
+}
