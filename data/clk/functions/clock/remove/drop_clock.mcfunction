@@ -12,3 +12,5 @@ execute if entity @s[tag=chk.clock.grand.1,tag=chk.clock.cherry] run loot spawn 
 execute if entity @s[tag=chk.clock.grand.1,tag=chk.clock.bamboo] run loot spawn ~ ~ ~ loot clk:clock/grand_1/bamboo
 execute if entity @s[tag=chk.clock.grand.1,tag=chk.clock.crimson] run loot spawn ~ ~ ~ loot clk:clock/grand_1/crimson
 execute if entity @s[tag=chk.clock.grand.1,tag=chk.clock.warped] run loot spawn ~ ~ ~ loot clk:clock/grand_1/warped
+
+execute if entity @s[tag=chk.clock.item.clocked] run summon item ~ ~0 ~ {PickupDelay:13s,Motion:[-0.01,0.1,-0.01],Item:{id:"clock",Count:1b}}
